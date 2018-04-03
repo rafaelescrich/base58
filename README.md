@@ -8,7 +8,7 @@ To import library
 
 ```go
 	import (
-		"github.com/mr-tron/base58/base58"
+		"github.com/rafaelescrich/base58/base58"
 	)
 ```
 
@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mr-tron/base58/base58"
+	"github.com/rafaelescrich/base58/base58"
 )
 
 func main() {
